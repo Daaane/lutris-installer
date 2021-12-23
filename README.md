@@ -1,2 +1,2 @@
 # lutris-installer
-script to install lutris on debian/ubuntu
+script that installs lutris on ubuntu/elementary
